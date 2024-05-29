@@ -1,0 +1,3 @@
+admin creds:
+    anmulla23@gmail.com
+    abu123
